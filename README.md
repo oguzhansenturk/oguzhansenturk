@@ -1,4 +1,4 @@
-### Enes Karaosman 👋
+### Oğuzhan Şentürk 👋
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
