@@ -1,17 +1,21 @@
-### 📩 Connect with me:
+### Enes Karaosman 👋
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
-<br />
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=enesKaraosman&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
 
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-<br />
+![](https://visitor-badge.glitch.me/badge?page_id=EnesKaraosman.EnesKaraosman)
+[![GitHub Enes Karaosman](https://img.shields.io/github/followers/EnesKaraosman?label=follow&style=social)](https://github.com/EnesKaraosman)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-EnesKaraosman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enes-karaosman-50b952105/)](https://www.linkedin.com/in/enes-karaosman-50b952105/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/5645821/enes-karaosman)](https://stackoverflow.com/users/5645821/enes-karaosman)
+[![Gmail Badge](https://img.shields.io/badge/-enesKaraosman-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eneskaraosman53@gmail.com)](mailto:eneskaraosman53@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-enesKaraosman-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@eneskaraosman53)](https://medium.com/@eneskaraosman53)
+<br>
+
+---
+
+#### Apps
+
+[Penjig](https://apps.apple.com/us/app/penjig/id1546984240) - JigSaw Game <br> <br>
+<img src="https://github.com/EnesKaraosman/EnesKaraosman/blob/main/penjigQR.png" width="100px" height="100px" style="padding-top: 16px" />
